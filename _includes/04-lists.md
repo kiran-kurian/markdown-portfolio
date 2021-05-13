@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Electronics
+   1. Smartphone
+   2. Laptop
+2. Cars
+3. Bikes
